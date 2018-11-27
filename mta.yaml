@@ -12,4 +12,4 @@ modules:
           config-path: ./xs-security.json
 resources:
   - name: UAA-service
-    type: com.sap.xs.uaa
+    type: com.sap.xs.uaa 
